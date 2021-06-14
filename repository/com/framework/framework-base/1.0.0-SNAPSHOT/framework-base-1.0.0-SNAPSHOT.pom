@@ -295,7 +295,7 @@
 
     <distributionManagement>
         <repository>
-            <id>xwintop-maven</id>
+            <id>Bruce-Tools-lulj</id>
             <url>/Users/lu/.m2/lulj/repository/</url>
         </repository>
     </distributionManagement>
