@@ -1,3 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
 #Mon Jun 14 22:05:44 CST 2021
-maven-metadata-gitee.xml.lastUpdated=1623679544427
+framework-base-1.0.0-sources.jar>=
+framework-base-1.0.0.jar>=
+framework-base-1.0.0.pom>=
